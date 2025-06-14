@@ -1,4 +1,4 @@
-# Projeto Sprint 01 - CHALLENGE good 
+# Projeto Sprint 01 - CHALLENGE good We
 
 **Bem-vindo ao repositório do Challenge da Good We (sprint 1)!**
 Este projeto foi desenvolvido para a disciplina de Soluções em Energias Renováveis e Sustentáveis, do curso de Ciência da Computação.  
